@@ -17,6 +17,7 @@ namespace ProductsApp.Controllers
             new Product{id=2, name="Yo-Yo" , category="Oyuncaklar" , price=123},
             new Product{id=3, name="HDD" , category="Donanım" , price=1234},
             new Product{id=4, name="Toplantı Masası" , category="Mobilyalar" , price=12345},
+            new Product{id=5, name="Mantar Pano" , category="Ofis Malzemeleri" , price=3245},
 
         };
 

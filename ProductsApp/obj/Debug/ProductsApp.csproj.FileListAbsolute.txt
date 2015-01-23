@@ -12,3 +12,17 @@ c:\users\levent\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bi
 c:\users\levent\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
 c:\users\levent\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
 c:\users\levent\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\ProductsApp.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\ProductsApp.pdb
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Web.Http.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Web.Http.xml
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\levent\Documents\Visual Studio 2013\Projects\ProductsApp\csharp-webapi-get\ProductsApp\obj\Debug\ProductsApp.pdb
